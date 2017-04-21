@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 # ensuring we're in the right directory
 DIR=`dirname $0`
